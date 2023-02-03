@@ -25,3 +25,6 @@
 [submodule ".vim/pack/plugins/start/vim-gutentags"]
 	path = .vim/pack/plugins/start/vim-gutentags
 	url = https://github.com/ludovicchabant/vim-gutentags.git
+[submodule ".vim/colors/vim-colors-solarized"]
+	path = .vim/colors/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
